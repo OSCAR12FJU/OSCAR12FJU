@@ -18,13 +18,14 @@
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
-- A passionate Self-taught Fullstack Developer
+
+- A passionate Self-taught Front-end developer
 - Currently specializing in Golang 💪
 - Skilled in database management and containerized deployments
 - Experienced in frontend design and user interface enhancement
 - Eager to embrace new challenges and opportunities for growth 🚀
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- Open to Internships or new job opportunities, [my resume](https://read.cv/0xabdulkhalid)
+- Eager to embrace new challenges and opportunities for growth 🚀
+
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
