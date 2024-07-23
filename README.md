@@ -24,7 +24,6 @@
 - Skilled in database management and containerized deployments
 - Experienced in frontend design and user interface enhancement
 - Eager to embrace new challenges and opportunities for growth 🚀
-- Eager to embrace new challenges and opportunities for growth 🚀
 
 <br><br>
 
